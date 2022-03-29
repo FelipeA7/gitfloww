@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+/farmers-protest-tweets-dataset-raw-json/**
+farmers-protest-tweets-dataset-raw-json/*
